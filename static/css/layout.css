@@ -18,6 +18,10 @@ a {
     /*background-color: rgba(39, 168, 34, 0.06);*/
 }
 
+section a {
+    text-decoration: underline;
+}
+
 a:visited {
     text-decoration: none;
 }
