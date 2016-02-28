@@ -72,6 +72,10 @@ body {
 .navbar li a {
   font-size: 14px;
 }
+
+.navbar-brand p {
+  font-size: 14px;
+}
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #6b6b6b;
