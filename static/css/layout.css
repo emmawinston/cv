@@ -129,6 +129,10 @@ header > h1 {
     margin-bottom: 20px;
 }
 
+.container > header {
+  margin-right: 0;
+}
+
 .container > header address {
   font-size: 0.9em;
 }
