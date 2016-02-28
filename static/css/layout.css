@@ -125,6 +125,10 @@ header > h1 {
     margin-bottom: 20px;
 }
 
+header a {
+  text-decoration: underline;
+}
+
 .container > header p, .container > header address {
     margin-bottom: 20px;
 }
