@@ -75,6 +75,9 @@ body {
 
 .navbar-header p {
   font-size: 14px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  line-height: 1em;
 }
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
