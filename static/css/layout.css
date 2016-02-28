@@ -133,6 +133,10 @@ header > h1 {
   font-size: 0.82em;
 }
 
+.container > header p {
+  font-size: 0.9em;
+}
+
 .container > header p:last-child {
     margin-bottom: 20px;
 }
