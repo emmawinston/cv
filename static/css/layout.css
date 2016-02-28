@@ -129,6 +129,10 @@ header > h1 {
     margin-bottom: 20px;
 }
 
+.container > header address {
+  font-size: 0.8em;
+}
+
 .container > header p:last-child {
     margin-bottom: 20px;
 }
@@ -175,7 +179,6 @@ article > header > span a {
 
 article > header address {
     display: inline;
-    font-size: 0.5em;
 }
 
 article > header address + time {
