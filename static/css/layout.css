@@ -175,6 +175,7 @@ article > header > span a {
 
 article > header address {
     display: inline;
+    font-size: 0.8em;
 }
 
 article > header address + time {
