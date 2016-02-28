@@ -74,7 +74,7 @@ body {
 }
 
 .navbar-brand p {
-  font-size: 14px;
+  font-size: 14px !important;
 }
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
